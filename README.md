@@ -166,18 +166,7 @@ python fine_tuning/inference.py --issue "Login crashes with HTTP 500"
 
 ---
 
-## ATS-Friendly Resume Description
 
-```text
-Autonomous AI Software Engineering Agent | Python, FastAPI, LangGraph, Qdrant, Docker, PyTorch, LoRA, Redis
-• Architected an autonomous SWE agent using LangGraph and AST-aware Code RAG, achieving 94.2% Pass@k resolution on code repair benchmarks.
-• Built a Hybrid Retrieval engine combining Qdrant dense vector search and BM25 lexical tokenization with Reciprocal Rank Fusion (RRF) reranking.
-• Implemented an isolated Docker execution sandbox with non-root security, CPU/memory quotas, and automated compiler feedback self-correction.
-• Developed a parameter-efficient LoRA/QLoRA fine-tuning pipeline using Hugging Face PEFT and MLflow, improving patch pass rates by +16.2%.
-• Designed an asynchronous backend with FastAPI, Redis task queues, and PostgreSQL models, scaling to 10,000 concurrent developers.
-```
 
----
-
-## License
-Distributed under the Apache-2.0 License.
+## for files:
+https://drive.google.com/drive/folders/1RxvyQdUkC_C54ahYgZ1-A7SIgTQJ3cdL?usp=sharing
